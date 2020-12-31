@@ -4,7 +4,7 @@
             <div class="row justify-content-evenly">
                 <div class="col-md-3">
                     <h5 class="text-start"><img src=<?= base_url('logo.png') ?> alt="" style="width: 20%;"></h5>
-                    <p class="text-start">Jaga Jarak adalah project website yang dibuat untuk memebuhi tugas besar mata kuliah Wawasan Global TIK Telkom University.</p>
+                    <p class="text-start">Jaga Jarak adalah project website yang dibuat untuk memenuhi tugas besar mata kuliah Wawasan Global TIK Telkom University.</p>
                 </div>
                 <div class="col-md-3">
                     <h5 class="text-start">Tautan Cepat</h5>
