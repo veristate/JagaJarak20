@@ -1,8 +1,6 @@
 <?php
 $url = file_get_contents('https://api.kawalcorona.com/indonesia');
 $data = json_decode($url, true);
-$url2 = file_get_contents('https://api.kawalcorona.com/indonesia/provinsi');
-$data2 = json_decode($url2, true);
 ?>
 
 <header class="page-header gradient">

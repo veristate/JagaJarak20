@@ -54,20 +54,20 @@
                     <div class="collapse navbar-collapse fixed-top position-relative justify-content-end" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Beranda</a>
+                                <a class="nav-link" href="<?php echo base_url('Home/index') ?>">Beranda</a>
                             </li>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="<?php echo base_url('Home/information') ?>">Informasi</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">FAQs</a>
+                                <a class="nav-link" href="<?php echo base_url('Home/faq') ?>">FAQs</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Artikel</a>
+                                <a class="nav-link" href="<?php echo base_url('Home/info') ?>">Artikel</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Tentang Kami</a>
+                                <a class="nav-link" href="<?php echo base_url('Home/team') ?>">Tentang Kami</a>
                             </li>
                         </ul>
                     </div>
